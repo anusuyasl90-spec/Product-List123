@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "iPhone 14",
+    "price": 79999,
+    "category": "Mobile",
+    "image": "iphone14.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Samsung TV",
+    "price": 45999,
+    "category": "Electronics",
+    "image": "samsungtv.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Nike Shoes",
+    "price": 5999,
+    "category": "Fashion",
+    "image": "nikeshoes.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Laptop",
+    "price": 68999,
+    "category": "Electronics",
+    "image": "laptop.jpg"
+  }
+]
